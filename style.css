@@ -1,0 +1,82 @@
+body{
+    background: rgb(238, 198, 198);
+    text-align-last: center;
+}
+.cv{
+    text-align: center ;
+    font-size: 30px;
+}
+.cadre1{
+    border: solid 2px rgb(233, 153, 169);
+    border-radius: 20px;
+    width: 500px;
+    background: white;
+    text-align: center;
+    padding: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+.cadre2{
+    border: solid 2px rgb(233, 153, 169);
+    border-radius: 20px;
+    width: 500px;
+    background: white;
+    text-align: center;
+    padding: 50px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.cadre3{
+    border: solid 2px rgb(233, 153, 169);
+    border-radius: 20px;
+    width: 500px;
+    background: white;
+    text-align: center;
+    padding: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.cadre4{
+    border: solid 2px rgb(233, 153, 169);
+    border-radius: 20px;
+    width: 500px;
+    background: white;
+    text-align: center;
+    padding: 50px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.cadre5{
+    border: solid 2px rgb(233, 153, 169);
+    border-radius: 20px;
+    width: 500px;
+    background: white;
+    text-align: center;
+    padding: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.cadre6{
+    border: solid 2px rgb(233, 153, 169);
+    border-radius: 20px;
+    width: 500px;
+    background: white;
+    text-align: center;
+    padding: 50px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.image{
+    width: 400px;
+    height: 400px;
+}
+.elem:hover {
+    width: 650px;
+    margin: 20px auto;
+    transition: 500ms linear; 
+  }
+.imgapp{
+    width: 400px;
+    height: 400px;
+}
